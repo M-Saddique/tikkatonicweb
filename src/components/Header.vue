@@ -73,7 +73,7 @@
     <div
       class="slide-item align-v-h text-center bg-overlay bg-img"
       style="
-        background-image: url('assets/images/features/CHINESE.jpg');
+        background-image: url('assets/images/backgrounds/3.jpg');
         background-size: cover;
         background-position: center;
         height: 80vh;
