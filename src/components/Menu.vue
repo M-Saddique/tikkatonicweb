@@ -45,7 +45,15 @@
       <!-- /.container -->
     </nav>
   </header>
-
+  <div class="mb-3 mt-4">
+      <h1 class="heading">Getränkekarte Tikka Tonic</h1>
+    </div>
+  <!-- <embed src="tikka.pdf" scrolling="auto"
+    height="500px"
+    width="100%" /> -->
+    <embed src="menu.pdf" scrolling="auto"
+    height="500px"
+    width="100%" />
     <!-- /.navabr -->
   <div class="container-fluid ">
     <!-- <span @click="back()">
