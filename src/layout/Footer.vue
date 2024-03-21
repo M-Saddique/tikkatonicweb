@@ -1,7 +1,7 @@
 <template>
-   <embed src="menu.pdf" scrolling="auto"
+   <!-- <embed src="menu.pdf" scrolling="auto"
     height="500px"
-    width="100%" />
+    width="100%" /> -->
     <!-- ========================
       Footer
     ========================== -->

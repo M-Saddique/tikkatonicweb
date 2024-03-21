@@ -70,10 +70,14 @@
     Slider
     ============================== -->
   <div class="owl-item cloned">
-    <img src="../assets/images/backgrounds/3.jpg" alt="">
     <div
       class="slide-item align-v-h text-center bg-overlay bg-img"
-
+      style="
+        background-image: url('../assets/images/backgrounds/3.jpg');
+        background-size: cover;
+        background-position: center;
+        height: 80vh;
+      "
     >
       <div class="container">
         <div class="row">
