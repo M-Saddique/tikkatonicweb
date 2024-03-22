@@ -14,7 +14,7 @@
               <p class="mx-2 mb-20">Das India Restaurant ist dafür bekannt, unvergessliche kulinarische Erlebnisse zu schaffen. Wir glauben, dass Essen eine Therapie ist und versuchen, Ihnen mit unseren Kochkünsten ein Lächeln ins Gesicht zu zaubern.</p>
 
               <ul class="social__icons social__icons-white justify-content-center">
-                <li><a  ><i
+                <li><a href="https://www.instagram.com/tikka.tonic?igsh=MXI4c3I3YWhhNmYwZg=="><i
                       class="fa fa-instagram"></i></a></li>
                 <li><a  ><i
                       class="fa fa-facebook"></i></a></li>
@@ -25,14 +25,10 @@
             <div class=" col-sm-12 col-md-12 col-lg-3">
               <div class="contact-box">
                 <h6 class="contact__box-title">Unsere Adressen</h6>
-                <!-- <ul class="contact__box-list list-unstyled">
+                <ul class="contact__box-list list-unstyled">
                   <li style="    margin-bottom: 15px;"> <a target="_blank"
-                      href="#">34,
-                      Karl Marx Sarani, Kidderpore, Kolkata</a></li>
-                  <li> <a target="_blank" href="#">
-                      9, Kazi Nazrul Islam Avenue <br>
-                      Kaikhali Crossing,<br> Kolkata- 700052</a></li>
-                </ul> -->
+                      href="#">Limmerstr 97, 30451 Hannover</a></li>
+                </ul>
               </div><!-- /.contact-box -->
             </div><!-- /.col-lg-4 -->
 
@@ -40,13 +36,13 @@
               <div class="contact-box mb-0">
                 <h6 class="contact__box-title">Öffnungszeiten</h6>
                 <ul class="contact__box-list list-unstyled">
-                  <li><span>Mon:</span> 11:00 AM – 11:00 PM</li>
-                  <li><span>Tue:</span> 11:00 AM – 11:00 PM</li>
-                  <li><span>Wed:</span> 11:00 AM – 11:00 PM</li>
-                  <li><span>Thu:</span> 11:00 AM – 11:00 PM</li>
-                  <li><span>Fri:</span> 11:00 AM – 11:00 PM</li>
-                  <li><span>Sat:</span> 11:00 AM – 11:00 PM</li>
-                  <li><span>Sun:</span> 11:00 AM – 11:00 PM</li>
+                  <li><span>Mon:</span> 11:00 – 14:30 und 17:00 - 22:30</li>
+                  <li><span>Die:</span> 11:00 – 14:30 und 17:00 - 22:30</li>
+                  <li><span>Mit:</span> 11:00 – 14:30 und 17:00 - 22:30</li>
+                  <li><span>Don:</span> 11:00 – 14:30 und 17:00 - 22:30</li>
+                  <li><span>Fre:</span> 11:00 – 14:30 und 17:00 - 24:00</li>
+                  <li><span>Sam:</span> 12:00 – 24:00</li>
+                  <li><span>Son:</span> 12:00 – 22:30 PM</li>
                 </ul>
               </div><!-- /.contact-box -->
             </div><!-- /.col-lg-4 -->
@@ -54,9 +50,8 @@
               <div class="contact-box">
                 <h6 class="contact__box-title">Kontaktdetails</h6>
                 <ul class="contact__box-list list-unstyled">
-                  <li> <a href="tel:49 123456789" target="_self"> <i class="fa fa-phone"></i> +49 123456789 </a></li>
-                  <li> <a href="tel:49 123456789" target="_self"> <i class="fa fa-phone"></i> +49 123456789 </a></li>
-                  <li> <a href="tel:49 123456789" target="_self"><i class="fa fa-phone"></i>  +49 123456789 </a></li>
+                  <li> <a href="tel:49 123456789" target="_self"> <i class="fa fa-phone"></i> +49 5112123261</a></li>
+                  <li> <a href="tel:49 123456789" target="_self"> <i class="fa fa-phone"></i> +49 1727252903</a></li>
                 </ul>
               </div><!-- /.contact-box -->
             </div><!-- /.col-lg-4 -->
