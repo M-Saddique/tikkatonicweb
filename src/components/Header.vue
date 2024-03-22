@@ -26,7 +26,7 @@
 
             <li class="nav__item with-dropdown">
               <router-link to="/menu" class="dropdown-toggle nav__item-link">
-                Menu</router-link
+                Speisekarte</router-link
               >
             </li>
 
