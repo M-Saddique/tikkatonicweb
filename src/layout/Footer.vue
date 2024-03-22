@@ -42,7 +42,7 @@
                   <li><span>Don:</span> 11:00 – 14:30 und 17:00 - 22:30</li>
                   <li><span>Fre:</span> 11:00 – 14:30 und 17:00 - 24:00</li>
                   <li><span>Sam:</span> 12:00 – 24:00</li>
-                  <li><span>Son:</span> 12:00 – 22:30 PM</li>
+                  <li><span>Son:</span> 12:00 – 22:30</li>
                 </ul>
               </div><!-- /.contact-box -->
             </div><!-- /.col-lg-4 -->
