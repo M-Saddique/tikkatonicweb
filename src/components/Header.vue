@@ -86,13 +86,17 @@
               <h2 class="slide__title" style="color: #fff">
                 Herzlich Willkommen zu Ihrem Lieblingsinder um die Ecke im
                 Herzen von Linden-Limmer.
-              </h2>
-              <a
+              
+            </h2>
+
+<router-link to="/menu" class="btn btn__white btn__bordered">
+                Zur Speisekarte</router-link>
+              
+            <!--  <a
                 data-scroll="smooth"
                 href="#reserve"
                 class="btn btn__white btn__bordered"
-                >Zur Speisekarte</a
-              >
+                >Zur Speisekarte</a> -->
             </div>
           </div>
         </div>
